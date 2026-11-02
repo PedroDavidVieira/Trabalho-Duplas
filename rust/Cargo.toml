@@ -1,0 +1,8 @@
+[package]
+name = "trabalho-duplas"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "trabalho-duplas"
+path = "main.rs"

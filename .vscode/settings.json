@@ -1,0 +1,8 @@
+{
+    "editor.codeLens": true,
+    "rust-analyzer.linkedProjects": [
+        "${workspaceFolder}/rust/Cargo.toml"
+    ],
+    "rust-analyzer.lens.enable": true,
+    "rust-analyzer.lens.run.enable": true
+}
